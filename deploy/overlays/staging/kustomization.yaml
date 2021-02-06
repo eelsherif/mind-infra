@@ -9,4 +9,4 @@ transformers:
 - labels.yaml
 replicas:
 - count: 1
-  name:  nginxe
+  name:  nginx
