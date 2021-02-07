@@ -3,7 +3,7 @@ kind: Kustomization
 namespace: staging
 nameSuffix: -staging
 resources:
-- ../../bases/nginx
+- ../../bases/nginxWeb
 - namespace.yaml
 transformers:
 - labels.yaml
