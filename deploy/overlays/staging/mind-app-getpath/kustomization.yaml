@@ -10,4 +10,4 @@ transformers:
 - labels.yaml
 replicas:
 - count: 1
-  name:  nginx
+  name: mind-app-getpath
